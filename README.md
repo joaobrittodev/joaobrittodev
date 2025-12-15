@@ -30,14 +30,14 @@ Estudante de ADS (Analise e desenvolvimento de sistemas), tenho 19 anos
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=oaojdev&show_icons=true&theme=algolia"
+    src="https://github-readme-stats.vercel.app/api?username=joaobrittodev&show_icons=true&theme=algolia"
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oaojdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobrittodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
