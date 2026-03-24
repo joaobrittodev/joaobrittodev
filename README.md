@@ -3,7 +3,7 @@
 Estudante de ADS (Analise e desenvolvimento de sistemas), tenho 19 anos
 
 - 🔭 Atualmente estou estudando e codando alguns projetos para facilitar problemas reais
-- 🌱 Começando a estudar Java & docker
+- 🌱 Começando a estudar Java | SpringBoot & docker
 ---
 
 🤖Tecnologias que uso atualmente
