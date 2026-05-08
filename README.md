@@ -1,24 +1,85 @@
-# 😎OI! Prazer, me chamo João Victor  !
+![](https://capsule-render.vercel.app/api?type=waving&height=140&color=A020F0&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0)
+<h1 align="center">Olá! Me chamo João Victor 💻</h1>
 
-Estudante de ADS (Analise e desenvolvimento de sistemas), tenho 19 anos
+###
 
-- 🔭 Atualmente estou estudando e codando alguns projetos para facilitar problemas reais
-- 🌱 Começando a estudar Java | SpringBoot & docker
----
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🤖Tecnologias que uso atualmente
-<div style="display: inline_block"><br>
-  <img align="center" alt="jv-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="jv-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  
-  <img align="center" alt="jv-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="jv-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img align="center" alt="jv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-</div><br>
+#   Sobre mim
 
-<div> 
-  <a href = "mailto:joaovictorbrittodasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaobrittodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- 🎓 Sou Estudante de Analise e Desenvolvimento de sistemas
+- 🏫 Entusiasta de Tecnologia e Cyber-Segurança
+- 💻 Projetos acadêmicos e práticos
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=joaobrittodev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ---
+
+#   Conecte-se comigo
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/joaobrittodev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=brown&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/jvbrl" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+#   Tecnologias & Ferramentas
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" />
+<img width="10" />
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malucodes&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=9&theme=dark&hide_border=false" height="500" alt="languages graph"  />
+  </div>
+</div>
+
+---
+<!--
+#   Certificações
+
+<a href="https://www.credly.com/badges/5d1c1844-b57f-49ad-a033-1188130b93f7/public_url" target="_blank">
+  <img src="https://occasional-jade-wg9ebltlg0.edgeone.app/google-ai-essentials-v1-removebg-preview.png" height="105"/>
+</a>
+
+<a href="https://www.credly.com/badges/4a37da4c-ace5-40f6-b4fe-93718df35eb8/public_url" target="_blank">
+  <img src="https://fixed-aqua-uyznclckaa.edgeone.app/google-prompting-essentials-v1-removebg-preview.png" height="100"/>
+</a>
+
+<a href="https://www.credly.com/badges/5d1c1844-b57f-49ad-a033-1188130b93f7/public_url" target="_blank">
+  <img src="https://monthly-amethyst-y08ppbdrdv.edgeone.app/GCC_badge_UX_1000x1000-removebg-preview.png" height="100"/>
+</a>
+
+<a href="https://www.dio.me/certificate/HEDZMV1L/share" target="_blank">
+  <img src="https://assets.dio.me/3PNEUWCamlIqYrkN0lvXAvk-KWcSx6VbbNXT0og_5Mw/f:webp/q:80/w:120/L3RyYWNrcy9iZGM3Y2MxOS1jNzk2LTQ2YTItYjc2Ny1lOGJkYzIwMWZjYjgucG5n" height="90"/>
+</a>
+-->
+</div>
+</td>
+</tr>
+</table>
+</div>
