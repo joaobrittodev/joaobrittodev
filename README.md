@@ -12,7 +12,7 @@
 
 - 🎓 Sou Estudante de Analise e Desenvolvimento de sistemas
 - 🏫 Entusiasta de Tecnologia e Cyber-Segurança
-- 💻 Projetos acadêmicos e práticos
+- 💻 Projetos acadêmicos e pessoais
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=joaobrittodev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
