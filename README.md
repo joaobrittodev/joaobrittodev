@@ -18,19 +18,6 @@
   <img src="https://streak-stats.demolab.com?user=joaobrittodev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
----
-
-#   Conecte-se comigo
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/joaobrittodev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=brown&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/jvbrl" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
 </td>
 
 <td width="50%" valign="top">
@@ -53,12 +40,19 @@
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" />
 <img width="10" />
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malucodes&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=9&theme=dark&hide_border=false" height="500" alt="languages graph"  />
-  </div>
 </div>
 
 ---
+
+#   Conecte-se comigo
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/joaobrittodev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=brown&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+
 <!--
 #   Certificações
 
